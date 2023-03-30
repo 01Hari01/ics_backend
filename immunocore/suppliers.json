@@ -1,3 +1,5 @@
 [{"id": 1, "name": "Gene Pro", "date_created": "2023-01-01T14:10:19.349Z", "phone_numbers": ["072255371431"]},
   {"id": 2, "name": "Labsy Ltd", "date_created": "2023-01-02T14:10:19.349Z", "phone_numbers": ["074062129541", "072821124611"]},
-  {"id": 3, "name": "Scimax", "date_created": "2023-01-03T14:10:19.349Z", "phone_numbers": []}, {"id": 4, "name": "Re-genetics", "date_created": "2023-01-04T14:11:19.349Z", "phone_numbers": ["071152163051"]}, {"id": 5, "name": "Unibio", "date_created": "2023-01-05T14:11:19.349Z", "phone_numbers": ["072742722111"]}, "name", "date_created", "phone_numbers", "name", "date_created", "phone_numbers", "name", "date_created", "phone_numbers"]
+  {"id": 3, "name": "Scimax", "date_created": "2023-01-03T14:10:19.349Z", "phone_numbers": []},
+  {"id": 4, "name": "Re-genetics", "date_created": "2023-01-04T14:11:19.349Z", "phone_numbers": ["071152163051"]},
+  {"id": 5, "name": "Unibio", "date_created": "2023-01-05T14:11:19.349Z", "phone_numbers": ["072742722111"]}]

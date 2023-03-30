@@ -29,11 +29,9 @@ class SupplierUserManager(BaseUserManager):
 
 class SupplierUser(AbstractBaseUser):
     username = models.CharField(max_length=255, unique=True)
-    email = models.EmailField(unique=True,default='',null=False,blank=False)
+    email = models.EmailField(unique=True,null=False)
     is_admin = models.BooleanField(default=False)
-
     objects = SupplierUserManager()
-
     USERNAME_FIELD = 'username'
     REQUIRED_FIELDS = ['email']
 
